@@ -1,2 +1,3 @@
-# Gradio-Sample-App
-Sample app for Gradio
+# Sample Gradio App
+
+For Sample Demonstration for Gradio app.
