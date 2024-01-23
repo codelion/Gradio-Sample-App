@@ -1,5 +1,4 @@
 import os
-os.system("pip install -r requirements.txt")
 import numpy as np
 import gradio as gr
 
